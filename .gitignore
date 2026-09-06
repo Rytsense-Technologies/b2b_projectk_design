@@ -1,0 +1,10 @@
+.vercel
+.vercelignore
+node_modules/
+.playwright-mcp/
+uploads/
+screenshots/
+.thumbnail
+*.log
+.DS_Store
+Thumbs.db
